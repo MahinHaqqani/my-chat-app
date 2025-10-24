@@ -158,5 +158,4 @@ Built with ❤️ by https://github.com/MahinHaqqani
 
 
 
-👉 Do you want me to also **add Firebase OTP setup code snippet** (with `firebase.js` + login screen) in the README, so it’s complete for someone cloning your repo?
 ```
